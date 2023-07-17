@@ -1,10 +1,14 @@
 # Pong
-Olá! Esse projeto consiste num jogo de Pong que foi primeiramente pensado e desenvolvido com o Scratch. Após o desenvolvimento da lógica, o jogo foi desenvolvido em JavaScript no P5 JS. O projeto foi desenvolvido a partir do curso Lógica de programação: comece em lógica com o jogo Pong e JavaScript, da Alura.
 
-![image](https://github.com/daraperini/pong/assets/134225297/2ab6de8b-9153-4a97-aa7e-c39660e67f2e)
-![image](https://github.com/daraperini/pong/assets/134225297/e54e6c08-b67a-4bd5-87c0-8235095d58ba)
-![image](https://github.com/daraperini/pong/assets/134225297/8924e2ba-d455-4247-a1da-24bca405d69e)
+Olá! 
 
+Esse projeto consiste num jogo de Pong que foi primeiramente pensado e desenvolvido com o Scratch. Após o desenvolvimento da lógica, o jogo foi desenvolvido em JavaScript no P5 JS. O projeto foi desenvolvido a partir do curso Lógica de programação: comece em lógica com o jogo Pong e JavaScript, da Alura.
+
+Esta é a estrutura montada para o desenvolvimento no Scratch:
+
+![image](https://github.com/daraperini/pong/assets/134225297/91a1d0f7-8cf4-4104-8717-39ad4745dcd9)
+![image](https://github.com/daraperini/pong/assets/134225297/09046784-89cf-44bc-a9e8-1dec1ff05dc6)
+![image](https://github.com/daraperini/pong/assets/134225297/b84dd416-c121-4373-8899-50e2d95b6e0f)
 
 
 Para ver o resultado inicial desenvolvido com o Scratch, clique [aqui](https://scratch.mit.edu/projects/874374056).
