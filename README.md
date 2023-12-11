@@ -1,4 +1,4 @@
-# Portfolio - Alura
+# Pong
 
 Hello! This project consists in a classic game: Pong. It was primary developed with Scratch with the goal to impruve programming logic. From there I developed it in JavaScript using the P5 JS editor. It was created during the Alura's class *Programming logic: begin in logics with the Pong game and JavaScript*.
 
